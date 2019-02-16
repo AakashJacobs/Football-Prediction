@@ -1,0 +1,12 @@
+^docs$
+^_pkgdown\.yml$
+# Files
+^.*\.Rproj$
+^\.Rproj\.user$
+^README\.Rmd$
+^README\.md$
+^NEWS\.md$
+^TODO.md
+^\.travis\.yml$
+^codecov\.yml$
+^appveyor\.yml$
